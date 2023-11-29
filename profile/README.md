@@ -3,7 +3,7 @@
 스마트 어항을 제작하여 어항 내의 환경을 원격으로 모니터링하고 제어함으로써 어류의 건강과 환경을 유지한다.<br><br>
 
 ### 시스템 흐름도
-![smartbowl_raspberrypi](https://github.com/wireless-network-team2/.github/assets/110397586/44b7a485-14b9-47df-8bb2-4b5879cdf91b)
+<img width="2599" alt="시스템흐름도" src="https://github.com/wireless-network-team2/.github/assets/110397586/d50c33a0-a448-454d-94bd-faefd0fd8ccf">
 
 
 ### UI 구조도
